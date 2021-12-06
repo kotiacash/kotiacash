@@ -30,3 +30,24 @@ Coinbase maturity 	20 ( + 1 default confirmation) blocks
 Target spacing 	2 minutes
 Target timespan 	10 minutes
 Transaction confirmations 	6 ( + 1 default confirmation) blocks
+
+
+
+
+BASED ON BITCOIN BLACKCOIN CODE
+
+Copyright (C) 2009-2021 The Bitcoin Core Developers
+
+Copyright (C) 2014-2018 The Blackcoin Developers
+
+Copyright (C) 2018-2021 The Blackcoin More Developers
+
+Copyright (C) 2021 The kotia Developers
+
+Please contribute if you find kotia useful. Visit https://kotia.cash/ for
+further information about the software.
+The source code is available from https://github.com/kotiacash/kotiacash.
+
+This is experimental software.
+Distributed under the MIT software license, see the accompanying file COPYING
+or http://www.opensource.org/licenses/mit-license.php.
