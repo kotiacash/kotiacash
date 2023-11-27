@@ -51,3 +51,6 @@ The source code is available from https://github.com/kotiacash/kotiacash.
 This is experimental software.
 Distributed under the MIT software license, see the accompanying file COPYING
 or http://www.opensource.org/licenses/mit-license.php.
+
+support kotia btc: bc1qu0mcrmdwhkkwds77tz5dsdr5p0uhqw6apua90t
+
